@@ -11,6 +11,7 @@ namespace Training_Async
 			Process1();
 			Process2();
 			Console.ReadKey();
+
 		}
 
 		public static async Task Process1()
